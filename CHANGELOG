@@ -1,0 +1,13 @@
+ADDED CPGMark Module to CVS - 16 April 2005, Donnoman
+INITIAL file upload - 25 April 2005, jpaffett
+Incorporated watermark on file upload - 26 April 2005, jpaffett
+Added config page - 26 April 2005, jpaffett
+Fixed entity code problem - 3 Dec 2005, jpaffett
+Various admin changes - 3 Dec 2005, jpaffett
+Sitewide watermarking option added - 9 Feb 2006, jpaffett
+disabled menu entry for users when user's aren't allowed to use watermarking - 29 Nov 2006, Donnoman
+fixed not watermarking images clicked from some of the meta-albums like random - 29 Nov 2006, Donnoman
+moved domain wide configuration into the mark_config table - 29 Nov 2006
+added dutch language contribution - 29 Nov 2006
+removed spurious reference to minicms from the lang files - 29 Nov 2006
+added auto-update feature to automatically upgrade the database - 29 Nov 2006
